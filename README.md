@@ -1,2 +1,2 @@
-# orangecrab
-Test projects for the OrangeCrab ECP5 FPGA board
+# butterstick
+Test projects for the ButterStick ECP5 FPGA board
